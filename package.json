@@ -5,8 +5,8 @@
   "scripts": {
     "rollup": "rollup -c"
   },
-  "author": "ms",
-  "license": "ISC",
+  "author": "Manoj Varma",
+  "license": "MIT",
   "peerDependencies": {
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
@@ -42,5 +42,10 @@
   "files": [
     "dist"
   ],
-  "types": "dist/index.d.ts"
+  "types": "dist/index.d.ts",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/manojvarmaboppisetti/t-react-toast.git"
+  },
+  "homepage": "https://github.com/manojvarmaboppisetti/t-react-toast#readme"
 }
