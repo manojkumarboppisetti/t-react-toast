@@ -26,7 +26,7 @@ You can use bellow options to customise.
 
 ![previews/toast_preview.gif](previews/toast_preview.gif)
 
-Thanks to [Vinod Y](https://www.behance.net/vinodkumar115) for the design mockups.
+Thanks to [Vinod Y](https://www.behance.net/vinodkumar115) for providing the design mockups.
 ## License
 
 MIT Licensed. Copyright (c) Manoj varma 2023.
