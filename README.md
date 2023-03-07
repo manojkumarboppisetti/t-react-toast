@@ -23,6 +23,7 @@ A simple react toast component
 
 You can use bellow options to customise.
 ##### Coming soon
+<br/>
 
 ![previews/toast_preview.gif](previews/toast_preview.gif)
 

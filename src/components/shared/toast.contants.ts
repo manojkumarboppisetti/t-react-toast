@@ -1,1 +1,1 @@
-export const ToastDuration = 100000;
+export const ToastDuration = 5000;
